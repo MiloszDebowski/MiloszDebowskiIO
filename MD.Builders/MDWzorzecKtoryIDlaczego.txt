@@ -1,0 +1,1 @@
+W mojej ocenie, warto rozważyć zastosowanie wzorca Budowniczego jako korzystnego wzorca projektowego w naszym projekcie. Niesie on ze sobą wiele korzyści, które są niezauważalne w naszym projekcie. Są to korzyści takie jak: separacja konstrukcji od reprezentacji, elastyczność przy tworzeniu obiektów, jasność i czytelność kodu, łatwa modyfikacja i rozbudowa oraz testowalność

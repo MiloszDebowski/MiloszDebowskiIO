@@ -1,0 +1,11 @@
+# ninja log v5
+6	866	7261042478416531	CMakeFiles/UseCaseBuilder.dir/main.cpp.obj	147e6e490f1ad69f
+876	991	7261042479685941	UseCaseBuilder.exe	9b596a91496bdb40
+3	521	7261044417459451	CMakeFiles/UseCaseBuilder.dir/main.cpp.obj	147e6e490f1ad69f
+522	625	7261044418468508	UseCaseBuilder.exe	9b596a91496bdb40
+4	613	7261045395506113	CMakeFiles/UseCaseBuilder.dir/main.cpp.obj	147e6e490f1ad69f
+613	720	7261045396530281	UseCaseBuilder.exe	9b596a91496bdb40
+3	1091	7261045799371626	CMakeFiles/UseCaseBuilder.dir/main.cpp.obj	147e6e490f1ad69f
+1092	1253	7261045801429847	UseCaseBuilder.exe	9b596a91496bdb40
+4	660	7261045893540348	CMakeFiles/UseCaseBuilder.dir/main.cpp.obj	147e6e490f1ad69f
+663	764	7261045894489706	UseCaseBuilder.exe	9b596a91496bdb40

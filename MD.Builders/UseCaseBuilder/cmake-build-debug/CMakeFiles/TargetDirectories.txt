@@ -1,0 +1,3 @@
+C:/Users/milos/Desktop/MD.Builders/UseCaseBuilder/cmake-build-debug/CMakeFiles/UseCaseBuilder.dir
+C:/Users/milos/Desktop/MD.Builders/UseCaseBuilder/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/milos/Desktop/MD.Builders/UseCaseBuilder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
