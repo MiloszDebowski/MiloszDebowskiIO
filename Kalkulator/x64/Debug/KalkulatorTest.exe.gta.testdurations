@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\milos\source\repos\Kalkulator\x64\Debug\KalkulatorTest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="LogarytmNaturalnyTest.PozytywnyArgument" Duration="1" />
+    <TestDuration Test="LogarytmNaturalnyTest.ZeroLubUjemnyArgument" Duration="1" />
+    <TestDuration Test="OdchylenieStandardoweTest.PoprawneDane" Duration="1" />
+    <TestDuration Test="OdchylenieStandardoweTest.ZaMaloDanych" Duration="1" />
+    <TestDuration Test="ExponentTest.PozytywnyArgument" Duration="1" />
+    <TestDuration Test="ExponentTest.ZeroArgument" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
