@@ -2,9 +2,9 @@
 <GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Executable>C:\Users\milos\Desktop\LabIO\SprawdzanieOcen\MDSprawdzanieOcenTest\x64\Debug\SprawdzanieOcenTest.exe</Executable>
   <TestDurations>
-    <TestDuration Test="BledyTest.BladWyboruTestu" Duration="7" />
-    <TestDuration Test="BledyTest.BladWyboruPrzedmiotu" Duration="8" />
+    <TestDuration Test="BledyTest.BladWyboruTestu" Duration="1" />
+    <TestDuration Test="BledyTest.BladWyboruPrzedmiotu" Duration="2" />
     <TestDuration Test="WypiszTest.Wypisz" Duration="1" />
-    <TestDuration Test="WyswietlPrzedmiotyTest.WyswietlPrzedmioty" Duration="3" />
+    <TestDuration Test="WyswietlPrzedmiotyTest.WyswietlPrzedmioty" Duration="2" />
   </TestDurations>
 </GtaTestDurations>
